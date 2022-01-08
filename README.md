@@ -4,4 +4,4 @@
 - 💞️ I want to start working together on the levels of great development opportunities.
 - 📫 How to reach me, write and ask.
 
-Thanks for check it. See you later !
+Thanks for check it. See you later!
