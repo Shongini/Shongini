@@ -6,5 +6,5 @@
 
 
 Write to me, I'm waiting for a message.
-Thanks for check it. See you later! 
+Thanks for check it. See you later! Looking for job
 
