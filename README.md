@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shongini
+- 👋 Hi, I’m @Shongin
 - 👀 I’m interested in testing and programming software.
 - 📫 From the Testing department, I know the basic issues of ISTQB. Currently, I'm developing my skills in writing cases and test scenarios.
 - 🌱 From Languages, Python is my strongest feature. Sometimes I train ReactJs, to rest my mind from Backend site of developing and testing.
