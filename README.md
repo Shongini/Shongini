@@ -7,6 +7,6 @@
 
 Learn new things is not difficult and terrible for me.
                                         
-Write... I'm stil waiting for a message with offer.
+Write... I'm still waiting for a message with offer.
 Thanks for check it. I'm looking for a job in IT. See you later!!
 
