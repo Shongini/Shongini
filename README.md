@@ -8,5 +8,5 @@
 Learn new things is not difficult and terrible for me.
                                         
 Write... I'm still waiting for a message with offer.
-Thanks for check it. I'm looking for a job in IT. See you later!!
+Thanks for check it.I'm looking for a job in IT. See you later!!
 
