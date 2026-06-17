@@ -1,31 +1,29 @@
-- 👋 Hi, I’m @Shongini
-- 👀 I’m interested in testing and programming software.
-- 📫 Currently, I'm working as Quality Assurance Engineer in IT industry.
+ Hi, I'm Dawid/Shongini👋
 
-Competentions:
-    - Launching a test automation framework, used for testing GUI and API,
-    - Writting test cases/scenarios based on client requirements,
-    - Manual testing of web application,
-    - Searching and reading logs,
-    - Using web browser DevTools.
-    
-- 🌱 From Languages, I have basic knowledge of Python and Java. Both allow me to develop automated tests using Selenium.
-- 💞️ I'm open for a job as a QA Engineer with a possibility to work as Automatic Tester in the other technolgies.
+  I am a Quality Assurance Engineer passionate about software quality, test automation, and building robust, scalable testing ecosystems. I specialize in bridging the gap between manual exploratory testing and automated quality assurance.
 
+  🚀 What I bring to the team:
+   * Test Automation: Designing and maintaining GUI and API automation frameworks (Python, Java).
+   * QA Strategy: Comprehensive test case/scenario design based on business requirements.
+   * Deep Diagnostics: Log analysis, API debugging, and browser DevTools expertise.
+   * Rapid Prototyping: Adaptive problem-solving and quick iteration on technical solutions to bridge development and QA gaps.
 
-Knowledge of:
-    - Python and testing frameworks (pytest, unitest),
-    - Selenium WebDriver,
-    - Robot Framework, 
-    - Postman/Swagger,
+  ---
 
-... but also, Jira, Agile, Scrum, Confluence, GraphiQL, Jenkins, Kafka, Git, ISTQB,
+  🛠 Tech Stack
 
-and from Software I have worked/work with: PyCharm, Visual Studio , WMware, Putty, WinSCP, Windows, MS Office.
+  ┌───────────────────┬───────────────────────────────────────────────────────────────────────┐
+  │ Category          │ Technologies & Tools                                                  │
+  ├───────────────────┼───────────────────────────────────────────────────────────────────────┤
+  │ Testing (GUI/API) │ Selenium, pytest, Robot Framework, Postman, SoapUI, Swagger, GraphiQL │
+  │ CI/CD & DevOps    │ Jenkins, GitLab CI/CD, Git, Kafka, RabbitMQ                           │
+  │ Languages         │ Python, Java                                                          │
+  │ Management        │ Jira, Confluence, Agile/Scrum, ISTQB                                  │
+  └───────────────────┴───────────────────────────────────────────────────────────────────────┘
+  ---
 
-- 📫 Learn new things is not difficult and terrible for me.
-                                        
-     Write... I'm still waiting for a message with offer.
-     Thanks for check it. See you later!!
+  📈 Current Status
+  I am currently open to new opportunities as a QA Engineer / QA Automation Engineer. I am eager to join teams where I can leverage my automation experience to streamline processes and ensure top-tier product quality.
 
-
+  📫 Let's connect:
+  [[LinkedIn Link]](https://www.linkedin.com/in/dawid-c-2aa79521b/) | [[Email Address]](dawid.chryc.99@gmail.com/)
