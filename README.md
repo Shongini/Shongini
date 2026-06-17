@@ -1,4 +1,4 @@
-# Hi, I'm Dawid 👋
+# Hi, I'm Dawid/Shongini 👋
 
 I am a Quality Assurance Engineer passionate about software quality, test automation, and building robust, scalable testing ecosystems. I specialize in bridging the gap between manual exploratory testing and automated quality assurance.
 
